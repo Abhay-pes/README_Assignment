@@ -1,7 +1,7 @@
 # README_Assignment
 # Basic Social Media Web Application
 
-This is the README file of a simple social media web application built with markdown. 
+This is the README file of a simple social media web application built with Python. 
 
 ## Table of Contents
 
@@ -10,16 +10,21 @@ This is the README file of a simple social media web application built with mark
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
+  
+
+
+
+
 
 ## Description
 
 This is a social media application to help people stay connected. Some key features include:
 
-* Something 1.
-* Something 2.
-* Something 3.
-* Something 4.
-* Something 5.
+* Staying connected with your friends and family
+* Picture sharing
+* Like counts
+* Stories
+* Chatting
 
 
 
@@ -28,7 +33,13 @@ This is a social media application to help people stay connected. Some key featu
 1.  **Installing the app:**
 
     ```
-        code to install the application
+        pip install Delayed_kilo
+    ```
+
+2.  **Installing Dependencies and Additional Features**
+
+    ```
+        pip install Delalyed_kilo_modules
     ```
 
 
@@ -37,19 +48,21 @@ This is a social media application to help people stay connected. Some key featu
 
 This is how you can contribute:
 
-1. Step 1
-2. Step 2
-3. Step 3
-4. Step 4
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request.
 
 
 
 
 ***Please follow these guidelines:***
 
-- Guideline 1
-- Guideline 2
-- Guideline 3
+- Write clear and concise commit messages.
+- Ensure your code is well-documented.
+- Test your changes thoroughly.
+- Use lower-case Camel case for methods and upper-case Camel case for classes
 
 
 
